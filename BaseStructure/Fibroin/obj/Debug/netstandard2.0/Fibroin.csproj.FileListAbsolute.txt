@@ -1,0 +1,9 @@
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\bin\Debug\netstandard2.0\Fibroin.deps.json
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\bin\Debug\netstandard2.0\Fibroin.dll
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\bin\Debug\netstandard2.0\Fibroin.pdb
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\obj\Debug\netstandard2.0\Fibroin.csprojAssemblyReference.cache
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\obj\Debug\netstandard2.0\Fibroin.csproj.CoreCompileInputs.cache
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\obj\Debug\netstandard2.0\Fibroin.AssemblyInfoInputs.cache
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\obj\Debug\netstandard2.0\Fibroin.AssemblyInfo.cs
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\obj\Debug\netstandard2.0\Fibroin.dll
+D:\桌面\SideProjects\DiDuBang\BaseStructure\Fibroin\obj\Debug\netstandard2.0\Fibroin.pdb
